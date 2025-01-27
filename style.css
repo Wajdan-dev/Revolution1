@@ -1169,6 +1169,7 @@ line-height: 50.36px;
               .footer-card article h3{
                 font-size: 48px;}
               .footer-card{
+                padding: 40px 10px;
                 border-top-left-radius: 0;
                 border-bottom-left-radius: 0;
               }
