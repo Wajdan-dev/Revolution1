@@ -1201,6 +1201,10 @@ line-height: 50.36px;
   .sec3-img-container{
     grid-template-columns: 320px 1fr 320px;
   }
+  .sec3-img-container > div{
+    height: 85%;
+    align-self: center;
+  }
   
   .certif-section{
     padding: 60px;
