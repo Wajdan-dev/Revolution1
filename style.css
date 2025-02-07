@@ -1199,7 +1199,7 @@ line-height: 50.36px;
 }
 @media screen and (min-width:1200px){
   .sec3-img-container{
-    grid-template-columns: 300px 1fr 300px;
+    grid-template-columns: 320px 1fr 320px;
   }
   .certif-section{
     padding: 60px;
