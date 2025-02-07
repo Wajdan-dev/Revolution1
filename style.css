@@ -912,7 +912,7 @@ line-height: 50.36px;
       gap: 2rem;
     }
     .sec3-img-container > div{
-      height: 90%;
+      height: 88%;
       align-self: center;
     }
     .sect3-h{
@@ -1201,6 +1201,7 @@ line-height: 50.36px;
   .sec3-img-container{
     grid-template-columns: 320px 1fr 320px;
   }
+  
   .certif-section{
     padding: 60px;
     grid-template-columns: 1fr 440px;
